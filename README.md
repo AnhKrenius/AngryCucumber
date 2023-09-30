@@ -18,3 +18,7 @@ a. Indefinite integrals
 b. Definite integrals
 
 But more than just a simple solver, our AngryCucumber has many special features.  **Try it now!**
+
+#### Have a look at the user manual!
+
+![alt text](https://github.com/AnhKrenius/AngryCucumber/blob/main/Screenshot%202023-10-01%20at%2007-03-23%20User%20Manual.pdf.png)
